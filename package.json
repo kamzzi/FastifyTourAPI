@@ -1,0 +1,17 @@
+{
+  "name": "tourapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "fastify": "^4.26.2",
+    "typescript": "^5.4.5"
+  }
+}
